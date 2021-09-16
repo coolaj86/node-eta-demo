@@ -1,0 +1,30 @@
+{
+  "name": "eta-demo",
+  "version": "1.0.0",
+  "description": "A small, but non-trivial ETA template project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolaj86/node-eta-demo.git"
+  },
+  "keywords": [
+    "eta",
+    "ejs",
+    "node",
+    "express",
+    "mjml"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/coolaj86/node-eta-demo/issues"
+  },
+  "homepage": "https://github.com/coolaj86/node-eta-demo#readme",
+  "dependencies": {
+    "eta": "^1.12.3",
+    "mjml": "^4.10.3"
+  }
+}
