@@ -1,6 +1,8 @@
 {
   "preview": "Read \"friend\" and enter...",
   "title": "Hello from the Elves",
+  "shortCompanyName": "ACME",
+  "legalCompanyName": "ACME, Inc., Nevada",
   "user": {
     "given_name": "AJ",
     "family_name": "ONeal"

@@ -3,5 +3,9 @@
     <mj-preview>Preview: {{= it.preview }}</mj-preview>
     <mj-title>Title: {{= it.title }}</mj-title>
   </mj-head>
-  <mj-body>{{~ it.body }}</mj-body>
+  <mj-body>
+    {{~ it.body }}
+    <!-- -->
+    {{~ include('partials/footer', it) }}
+  </mj-body>
 </mjml>
